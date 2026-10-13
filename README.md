@@ -112,8 +112,6 @@ Learning about the systems and workflows behind modern software delivery.
 ### Systems & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 ---
 
 ## Featured Projects
