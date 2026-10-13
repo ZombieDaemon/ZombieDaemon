@@ -1,49 +1,34 @@
-# ☠️ ZombieDaemon
+# ZombieDaemon
 
 <div align="center">
 
-# `> INITIALIZING ZOMBIEDAEMON...`
+### Developer · Cybersecurity Enthusiast · Technology Explorer
 
-### `Curiosity.exe` · `Learning.sys` · `Building.dll`
-
-**Developer in Progress | Cybersecurity Enthusiast | Tech Explorer**
-
-*Exploring the digital frontier, one line of code at a time.*
+**Building skills. Solving problems. Creating with purpose.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZombieDaemon-181717?style=for-the-badge&logo=github)](https://github.com/ZombieDaemon)
-[![Profile Views](https://komarev.com/ghpvc/?username=ZombieDaemon&style=for-the-badge&color=red)](https://github.com/ZombieDaemon)
+[![Profile Views](https://komarev.com/ghpvc/?username=ZombieDaemon&style=for-the-badge&color=2563eb)](https://github.com/ZombieDaemon)
 
 </div>
 
 ---
 
-## `whoami`
+## About Me
 
-```bash
-$ whoami
-ZombieDaemon
+I'm a self-directed learner exploring software development, cybersecurity, web technologies, cloud infrastructure, and creative problem-solving.
 
-$ cat mission.txt
-Explore. Build. Break. Learn. Improve.
+I use hands-on experimentation and personal projects to develop practical skills, understand how systems work, and turn ideas into useful solutions.
 
-$ cat current_objective.txt
-Turning curiosity into practical technical skills.
+This profile documents my technical journey — from learning new concepts to building projects, solving problems, and continuously improving.
 
-$ cat mindset.txt
-Stay curious. Think critically. Build responsibly.
-```
-
-I'm a technology enthusiast exploring the intersection of software development, cybersecurity, web technologies, cloud infrastructure, and creative problem-solving.
-
-I believe the best way to understand technology is to get hands-on: build things, investigate how they work, experiment in controlled environments, and learn from every challenge.
-
-This profile documents that journey — the projects I build, the concepts I explore, the problems I solve, and the skills I develop along the way.
-
-**I'm not here to pretend I know everything. I'm here to keep learning and building.**
+- **Interests:** Cybersecurity, web development, cloud technologies, DevOps, and design.
+- **Approach:** Learn by building, experiment responsibly, and document the process.
+- **Goal:** Develop practical experience and create a portfolio of meaningful projects.
+- **Mindset:** Stay curious, think critically, and keep improving.
 
 ---
 
-## `01 // AREAS OF INTEREST`
+## Areas of Interest
 
 <table>
 <tr>
@@ -51,40 +36,40 @@ This profile documents that journey — the projects I build, the concepts I exp
 
 ### 🔐 Cybersecurity
 
-Exploring the principles behind digital security, system hardening, vulnerability research, and defensive security.
+Exploring the foundations of digital security and secure computing.
 
 - Security fundamentals
-- Networking and protocols
-- Linux and system administration
-- Ethical hacking in authorized labs
-- Secure coding practices
+- Networking and operating systems
+- Defensive security practices
+- Authorized security labs
+- Secure development principles
 
 </td>
 <td width="50%" valign="top">
 
 ### 💻 Software Development
 
-Learning to transform ideas into functional software through experimentation and practical projects.
+Learning to turn ideas into functional, maintainable software.
 
 - Programming fundamentals
-- Problem-solving and algorithms
+- Problem-solving and debugging
 - Application development
-- Debugging and testing
-- Writing maintainable code
+- Version control
+- Testing and documentation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Technologies
+### 🌐 Web Development
 
-Exploring the technologies that power modern websites and applications.
+Exploring how modern websites and applications are designed and built.
 
-- Frontend development
-- Backend fundamentals
+- Web technologies
+- User interface development
 - APIs and integrations
-- Responsive interfaces
+- Responsive design
 - Web application security
 
 </td>
@@ -92,13 +77,13 @@ Exploring the technologies that power modern websites and applications.
 
 ### ☁️ Cloud & DevOps
 
-Discovering how applications are deployed, managed, automated, and maintained.
+Learning about the systems and workflows behind modern software delivery.
 
-- Linux environments
-- Git and version control
-- Deployment workflows
-- Containers and infrastructure
+- Linux and system administration
 - Automation and scripting
+- Git-based workflows
+- Cloud infrastructure
+- Deployment and containers
 
 </td>
 </tr>
@@ -106,133 +91,140 @@ Discovering how applications are deployed, managed, automated, and maintained.
 
 ---
 
-## `02 // TECHNOLOGY TOOLKIT`
+## Technology Toolkit
 
-*Add or remove badges to reflect the tools you actually use.*
+*This is a customizable list of technologies to showcase. Keep only the tools you currently use or are actively learning.*
 
-### Languages
+### Languages & Scripting
 
-<!-- Add verified languages here -->
+<!-- Keep badges for languages you actually use or are learning. -->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
-### Development
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### Systems & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> These badges are examples, not a claim of proficiency. Keep only the technologies relevant to your actual experience.
+---
+
+## Featured Projects
+
+My repositories are where I explore ideas, apply what I'm learning, and document my progress.
+
+<!-- Replace these examples with real repositories and verified descriptions. -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 ZombieDaemon
+
+My personal GitHub space for projects, experiments, documentation, and continued learning.
+
+[View repository →](https://github.com/ZombieDaemon/ZombieDaemon)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 More projects
+
+Explore my repositories to discover additional work, experiments, and technical interests.
+
+[Browse all repositories →](https://github.com/ZombieDaemon?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+> **Project showcase:** Add two or three real repositories here, with a short explanation of what each does, the technologies it uses, and what you learned from building it.
 
 ---
 
-## `03 // FEATURED PROJECTS`
-
-Every repository is an opportunity to experiment, solve a problem, and understand something new.
-
-<!-- Replace these examples with actual project links and descriptions. -->
-
-### ☠️ ZombieDaemon
-
-**The home base.**
-
-My personal GitHub space for documenting experiments, sharing projects, and tracking my development journey.
-
-[Explore repository →](https://github.com/ZombieDaemon/ZombieDaemon)
-
-### 🔐 Security Lab
-
-**Learn. Test. Understand.**
-
-A potential collection of authorized security exercises, lab notes, defensive techniques, and educational experiments.
-
-`Status: Planned`
-
-### ⚙️ Automation Lab
-
-**Less repetition. More efficiency.**
-
-A potential collection of scripts and tools designed to automate everyday tasks and explore system administration.
-
-`Status: Planned`
-
-### 🌐 Web Experiments
-
-**Ideas made interactive.**
-
-A potential collection of websites, interface experiments, and application prototypes.
-
-`Status: Planned`
-
----
-
-## `04 // GITHUB ACTIVITY`
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ZombieDaemon&theme=tokyonight&hide_border=true)
+<a href="https://github.com/ZombieDaemon">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZombieDaemon&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="ZombieDaemon GitHub statistics" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZombieDaemon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<a href="https://github.com/ZombieDaemon">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieDaemon&layout=compact&hide_border=true&theme=default" alt="Most-used languages in ZombieDaemon's public repositories" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieDaemon&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZombieDaemon&theme=default&hide_border=true)](https://github.com/ZombieDaemon)
 
 </div>
 
-<sub>These cards are provided by external services. They depend on service availability and repository visibility; language statistics represent code distribution, not skill level.</sub>
+<sub>Statistics are generated by external services and may be unavailable or subject to caching. Language distribution is based on repository code, not proficiency. Contribution activity may exclude private work.</sub>
 
 ---
 
-## `05 // LEARNING PROTOCOL`
+## Current Learning Roadmap
 
-```text
-[01] RESEARCH       -> Understand the fundamentals.
-[02] EXPERIMENT     -> Test ideas in controlled environments.
-[03] BUILD          -> Turn knowledge into working projects.
-[04] DEBUG          -> Investigate failures and find solutions.
-[05] DOCUMENT       -> Record what worked and what didn't.
-[06] ITERATE        -> Improve the next version.
-```
+My roadmap is focused on building a strong foundation and applying knowledge through practical work.
 
-My approach is simple: focus on practical learning, document the process, and keep building.
+- [ ] Strengthen programming and problem-solving fundamentals.
+- [ ] Build and document practical software projects.
+- [ ] Develop a deeper understanding of networking and operating systems.
+- [ ] Practice defensive security and authorized lab exercises.
+- [ ] Explore automation, deployment, and cloud infrastructure.
+- [ ] Improve testing, documentation, and software quality.
+- [ ] Publish a portfolio of completed projects with clear documentation.
 
-I value curiosity over ego, understanding over shortcuts, and consistent progress over the illusion of perfection.
-
----
-
-## `06 // PRINCIPLES`
-
-- **Curiosity is the starting point.** Never stop asking how things work.
-- **Security is a responsibility.** Explore, test, and learn with permission.
-- **Code should solve problems.** Build for usefulness, not just appearance.
-- **Failure is feedback.** Debugging is part of the learning process.
-- **Knowledge grows when shared.** Document discoveries and help others learn.
-- **Progress is cumulative.** Small improvements add up over time.
+*Update these milestones as your priorities and experience evolve.*
 
 ---
 
-## `07 // CONNECT`
+## How I Learn
 
-Have an interesting project, a technical question, or an idea worth exploring?
+| Stage | Focus |
+|---|---|
+| 01 — Research | Understand the concepts and fundamentals. |
+| 02 — Experiment | Test ideas in controlled environments. |
+| 03 — Build | Apply knowledge to practical projects. |
+| 04 — Debug | Investigate issues and learn from failures. |
+| 05 — Document | Record decisions, discoveries, and lessons. |
+| 06 — Improve | Refine the solution and apply feedback. |
 
-Feel free to connect through GitHub.
+---
+
+## Principles
+
+- **Curiosity:** Keep asking questions and exploring how things work.
+- **Practical learning:** Turn theory into projects and experiments.
+- **Responsible security:** Test only systems I own or have explicit permission to assess.
+- **Quality:** Value readable code, useful documentation, and maintainability.
+- **Consistency:** Make progress through regular practice.
+- **Growth:** Treat challenges and mistakes as opportunities to improve.
+
+---
+
+## Connect
+
+I'm always interested in learning, discovering useful tools, and exploring interesting technical projects.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow_@ZombieDaemon-181717?style=for-the-badge&logo=github)](https://github.com/ZombieDaemon)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github)](https://github.com/ZombieDaemon)
 
 **Explore boldly. Build responsibly. Keep evolving.**
 
-`[ END OF TRANSMISSION ]`
-
 </div>
 
 ---
 
-<sub>README maintained by ZombieDaemon · Built with curiosity and caffeine.</sub>
+<div align="center">
+
+*Built with curiosity and a commitment to continuous learning.*
+
+</div>
